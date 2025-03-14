@@ -51,18 +51,37 @@ a:link{
 }
 #create{
     position: absolute;
-    top: 600PX;
-    right: 650PX;
-    background-color: #a8c7fa;
-    border-radius: 100px;
+    top: 580px;
+    left: 1120px;
 }
 #next{
     position: absolute;
-    top: 600PX;
-    right: 550PX;
+    top: 580px;
+    left: 1310px;
 }
-.button{
-    border-radius: 10px;
-    background-color: #a8c7fa;
-    
+.createaccount{
+    background-color: #0e0e0e;
+    border:0px;
+    padding: 14px 20px;
+    color: rgb(124, 156, 245);
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 18px;
+    cursor: pointer;
+    border: 0px solid #f8f8f8;
+}
+.next1{
+    background-color:#a8c7fa;
+    border:2px;
+    color: rgb(124, 156, 245);
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    border-radius: 20px;
+    cursor: pointer;
+    color: #062e6f;
+    border: 0px solid #f8f8f8;
+    padding: 12px 20px;
+    color-scheme: dark;
 }
