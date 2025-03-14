@@ -1,0 +1,68 @@
+#background{
+    background-color:  #1e1f20;
+
+}
+#Box{
+    width: 1000px;
+    height: 430px;
+    background-color:#0e0e0e;
+    margin-left: 450px;
+    margin-right: 200px;
+    margin-top: 230px;
+    margin-bottom: 100px;
+    border-radius: 30px;
+}
+#photo1{
+    position: absolute;
+    margin-top: 45px;
+    margin-left: 45px;
+}
+#signin{
+    font-size: 45px;
+    margin-left: 45px;
+    font-family: "Google Sans",roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    color: var(--gm3-sys-color-on-surface,#f8f8f8);
+}
+#emailtab{
+    position: static;
+    padding-left: 250px;
+}
+#googleaccount{
+    position: static;
+    margin-top: -15px;
+    margin-left: 45px;
+    font-family: "Google Sans",roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    color: var(--gm3-sys-color-on-surface,#f8f8f8);
+}
+a:link{
+    color:#a8c7fa;
+    position: absolute;
+    margin-top: -20px;
+    padding-left: 250px;
+    font-size: medium;
+    font-family: "Google Sans",roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    text-decoration:none;
+}
+#dis{
+    padding-left: 250px;
+    color: #bcbfbd;
+    font-family: "Google Sans",roboto,"Noto Sans Myanmar UI",arial,sans-serif;
+    font-size:15px;
+}
+#create{
+    position: absolute;
+    top: 600PX;
+    right: 650PX;
+    background-color: #a8c7fa;
+    border-radius: 100px;
+}
+#next{
+    position: absolute;
+    top: 600PX;
+    right: 550PX;
+}
+.button{
+    border-radius: 10px;
+    background-color: #a8c7fa;
+    
+}
